@@ -1,5 +1,19 @@
 # gridx
-grid all allowed component
+grid all allowed component.
+first target the code snippet. save storage the gist. quick response javascript error, and short test.
+
+# reserve the component
+0: component max height the 34rem.
+```js
+//dataset.type===
+js //within the debug console
+css
+pug 
+md
+txt
+img //object fit image
+imgf //full image
+```
 
 # regulation
 0: system signature the ```gridx```
